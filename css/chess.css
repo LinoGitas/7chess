@@ -45,3 +45,11 @@ body * {
     background-color: #fff;
 }
 
+.chessboard > .row > .cell.blue {
+    background-color:blue;
+}
+
+.chessboard > .row > .cell.yellow {
+    background-color:yellow;
+}
+
